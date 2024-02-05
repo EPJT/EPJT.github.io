@@ -132,9 +132,9 @@ border: 1px solid #d6464b;
   background-color: #d6464b;
 }
 
-.contact-block img {
+.home #main-content .contact-block img {
   width: 85px;
-  margin-top: 35px;
+  margin: 35px auto;
 }
 
 .sn-block {
