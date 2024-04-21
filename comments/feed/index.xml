@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires pour EPJT	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://epjt.fr/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://epjt.fr/</link>
 	<description>École publique de journalisme de Tours</description>
 	<lastBuildDate>Tue, 16 Apr 2024 06:33:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

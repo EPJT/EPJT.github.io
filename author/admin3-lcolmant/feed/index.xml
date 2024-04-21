@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Laure Colmant | EPJT</title>
-	<atom:link href="/author/admin3-lcolmant/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://epjt.fr/author/admin3-lcolmant/feed/" rel="self" type="application/rss+xml" />
+	<link>https://epjt.fr/</link>
 	<description>École publique de journalisme de Tours</description>
 	<lastBuildDate>Mon, 15 Apr 2024 17:58:59 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2017/12/cropped-Plan-de-travail-1@8x-32x32.png</url>
+	<url>https://epjt.fr/wp-content/uploads/2017/12/cropped-Plan-de-travail-1@8x-32x32.png</url>
 	<title>Laure Colmant | EPJT</title>
-	<link>/</link>
+	<link>https://epjt.fr/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Les étudiants de l&#8217;EPJT se challengent au Hyblab</title>
-		<link>/les-etudiants-de-lepjt-se-challengent-au-hyblab/</link>
+		<link>https://epjt.fr/les-etudiants-de-lepjt-se-challengent-au-hyblab/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 15 Apr 2024 17:38:19 +0000</pubDate>
@@ -38,16 +38,16 @@
 		<category><![CDATA[innovations numériques]]></category>
 		<category><![CDATA[nouvelles écritures]]></category>
 		<category><![CDATA[ouestmedialab]]></category>
-		<guid isPermaLink="false">/?p=13201</guid>
+		<guid isPermaLink="false">https://epjt.fr/?p=13201</guid>
 
-					<description><![CDATA[<div><img width="300" height="300" src="/wp-content/uploads/2024/04/53656166911_8907495686_c-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>Chaque année, Ouest Medialab organise un hyblab qui réunit des étudiants de quatre écoles. Leur mission ? Répondre à la demande de médias partenaires pour créer, dans les temps impartis, des sites pour mobiles sur une thématique prédéfinie. Cette année, c'était le sport, JO oblige]]></description>
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/04/53656166911_8907495686_c-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>Chaque année, Ouest Medialab organise un hyblab qui réunit des étudiants de quatre écoles. Leur mission ? Répondre à la demande de médias partenaires pour créer, dans les temps impartis, des sites pour mobiles sur une thématique prédéfinie. Cette année, c'était le sport, JO oblige]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Samedi 17 février 2024 : venez visiter l’EPJT !</title>
-		<link>/samedi-17-fevrier-2024-venez-visiter-lepjt/</link>
+		<link>https://epjt.fr/samedi-17-fevrier-2024-venez-visiter-lepjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 29 Jan 2024 12:26:30 +0000</pubDate>
@@ -59,14 +59,14 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13118</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2024/01/52953106351_3674c4a4c8_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>L'EPJT ouvre ses portes le samedi 17 février 2024. Étudiants et enseignants vous accueilleront sur place ou à distance. L'occasion de découvrir la formation initiale, le master de journalisme, mais aussi les offres de formation continue.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/01/52953106351_3674c4a4c8_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>L'EPJT ouvre ses portes le samedi 17 février 2024. Étudiants et enseignants vous accueilleront sur place ou à distance. L'occasion de découvrir la formation initiale, le master de journalisme, mais aussi les offres de formation continue.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Concours 2024 : intégrez le master de journalisme EPJT</title>
-		<link>/concours-2024-integrez-le-master-de-journalisme-epjt/</link>
+		<link>https://epjt.fr/concours-2024-integrez-le-master-de-journalisme-epjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 26 Jan 2024 09:49:54 +0000</pubDate>
@@ -80,14 +80,14 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12955</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2023/11/52953106531_0b9a089776_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Intéressé(e)s par le journalisme télé, radio ou presse écrite print et web ? L’École publique de journalisme de Tours recrute sa future promotion d'étudiants en master de journalisme pour l'année universitaire 2024-2025. Pour candidater, rendez-vous sur la plateforme ConcoursJournalisme.fr, accessible du 10 janvier au 29 février 2024.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2023/11/52953106531_0b9a089776_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Intéressé(e)s par le journalisme télé, radio ou presse écrite print et web ? L’École publique de journalisme de Tours recrute sa future promotion d'étudiants en master de journalisme pour l'année universitaire 2024-2025. Pour candidater, rendez-vous sur la plateforme ConcoursJournalisme.fr, accessible du 10 janvier au 29 février 2024.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>A Valdahon, reportage de guerre en terrain militaire</title>
-		<link>/a-valdahon-reportage-de-guerre-en-terrain-militaire/</link>
+		<link>https://epjt.fr/a-valdahon-reportage-de-guerre-en-terrain-militaire/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Thu, 25 Jan 2024 15:29:53 +0000</pubDate>
@@ -97,14 +97,14 @@
 		<category><![CDATA[entraînement]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13083</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-300x200.jpg 300w, /wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-480x320.jpg 480w, /wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-e1706110577413.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></div>Dans le cadre d’un partenariat avec les Écoles militaires de Bourges, les étudiants en deuxième année de master de journalisme de l’EPJT ont intégré le camp d’entraînement de Valdahon.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-480x320.jpg 480w, https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-e1706110577413.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></div>Dans le cadre d’un partenariat avec les Écoles militaires de Bourges, les étudiants en deuxième année de master de journalisme de l’EPJT ont intégré le camp d’entraînement de Valdahon.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Hommage à Clémentine Vergnaud</title>
-		<link>/lhommage-a-clementine-vergnaud/</link>
+		<link>https://epjt.fr/lhommage-a-clementine-vergnaud/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Sun, 24 Dec 2023 12:26:49 +0000</pubDate>
@@ -116,14 +116,14 @@
 		<category><![CDATA[nécrologie]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13023</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2023/12/53417745481_1c2e1b87de_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Samedi 23 décembre, nous avons appris la disparition de Clémentine Vergnaud qui fut étudiante à l'EPJT de 2012 à 2015. Cette nouvelle nous a laissés sans voix, avec une infinie tristesse au cœur.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2023/12/53417745481_1c2e1b87de_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Samedi 23 décembre, nous avons appris la disparition de Clémentine Vergnaud qui fut étudiante à l'EPJT de 2012 à 2015. Cette nouvelle nous a laissés sans voix, avec une infinie tristesse au cœur.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Une rédaction franco-roumaine à Bucarest</title>
-		<link>/redaction-franco-roumaine-bucarest/</link>
+		<link>https://epjt.fr/redaction-franco-roumaine-bucarest/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 01 Dec 2023 07:00:00 +0000</pubDate>
@@ -132,14 +132,14 @@
 		<category><![CDATA[Théophraste]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12900</guid>
 
-					<description><![CDATA[<div><img width="300" height="225" src="/wp-content/uploads/2023/11/53351382573_b6d656fa8a_e-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Un groupe de cinq étudiantes de l’EPJT ont réalisé plusieurs reportages multimédias conjointement avec leurs camarades de la Faculté de journalisme de Bucarest entre le 22 et le 26 novembre 2023, en partenariat avec Radio Romania.]]></description>
+					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2023/11/53351382573_b6d656fa8a_e-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Un groupe de cinq étudiantes de l’EPJT ont réalisé plusieurs reportages multimédias conjointement avec leurs camarades de la Faculté de journalisme de Bucarest entre le 22 et le 26 novembre 2023, en partenariat avec Radio Romania.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Nicolas Legendre, prix Albert-Londres 2023</title>
-		<link>/nicolas-legendre-prix-albert-londres-2023/</link>
+		<link>https://epjt.fr/nicolas-legendre-prix-albert-londres-2023/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Tue, 28 Nov 2023 14:22:36 +0000</pubDate>
@@ -150,14 +150,14 @@
 		<category><![CDATA[Prix Albert-Londres 2023]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12924</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2023/11/prix-albert-londres-2023-022-00-01-55-16-6564e304d713e307629161-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'Ecole publique de journalisme de Tours félicite Nicolas Legendre, un de ses anciens étudiants, qui a remporté le prix Albert-Londres 2023 dans la catégorie Livre.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2023/11/prix-albert-londres-2023-022-00-01-55-16-6564e304d713e307629161-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'Ecole publique de journalisme de Tours félicite Nicolas Legendre, un de ses anciens étudiants, qui a remporté le prix Albert-Londres 2023 dans la catégorie Livre.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Le nouveau Factoscope est en ligne</title>
-		<link>/le-nouveau-factoscope-est-en-ligne/</link>
+		<link>https://epjt.fr/le-nouveau-factoscope-est-en-ligne/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Thu, 28 Sep 2023 06:00:22 +0000</pubDate>
@@ -171,14 +171,14 @@
 		<category><![CDATA[vérification]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12878</guid>
 
-					<description><![CDATA[<div><img width="300" height="225" src="/wp-content/uploads/2023/09/53217809208_049325e612_e-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Factoscope.fr, le média de fact-checking de l’Ecole publique de journalisme de Tours (EPJT), lance une nouvelle version internationale francophone, avec des contenus et ressources de vérification et d’éducation aux médias et à l’information (EMI). En partenariat avec l’ONG Nothing2Hide et CFI Médias.]]></description>
+					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2023/09/53217809208_049325e612_e-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Factoscope.fr, le média de fact-checking de l’Ecole publique de journalisme de Tours (EPJT), lance une nouvelle version internationale francophone, avec des contenus et ressources de vérification et d’éducation aux médias et à l’information (EMI). En partenariat avec l’ONG Nothing2Hide et CFI Médias.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>LE 12 mai, l&#8217;EPJT fête sa 3e promo de Master</title>
-		<link>/le-12-mai-lepjt-fete-sa-3e-promo-de-master/</link>
+		<link>https://epjt.fr/le-12-mai-lepjt-fete-sa-3e-promo-de-master/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Tue, 16 May 2023 16:56:52 +0000</pubDate>
@@ -188,14 +188,14 @@
 		<category><![CDATA[promo 2020-2022]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12716</guid>
 
-					<description><![CDATA[<div><img width="300" height="183" src="/wp-content/uploads/2023/05/52901005935_4d1b452668_w-300x183.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2023/05/52901005935_4d1b452668_w-300x183.jpg 300w, /wp-content/uploads/2023/05/52901005935_4d1b452668_w.jpg 399w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le 12 mai, l'EPJT remettait leur diplôme aux étudiants de sa troisième promo de master. Un cérémonie qui s'est tenue à la mairie de Tours.]]></description>
+					<description><![CDATA[<div><img width="300" height="183" src="https://epjt.fr/wp-content/uploads/2023/05/52901005935_4d1b452668_w-300x183.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2023/05/52901005935_4d1b452668_w-300x183.jpg 300w, https://epjt.fr/wp-content/uploads/2023/05/52901005935_4d1b452668_w.jpg 399w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le 12 mai, l'EPJT remettait leur diplôme aux étudiants de sa troisième promo de master. Un cérémonie qui s'est tenue à la mairie de Tours.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Laura Bannier reçoit le prix Megalizzi-Niedzielski</title>
-		<link>/laura-bannier-recompensee-du-prix-megalizzi-niedzielski/</link>
+		<link>https://epjt.fr/laura-bannier-recompensee-du-prix-megalizzi-niedzielski/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Sat, 15 Oct 2022 13:14:26 +0000</pubDate>
@@ -206,42 +206,42 @@
 		<category><![CDATA[prix]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12569</guid>
 
-					<description><![CDATA[<div><img width="300" height="246" src="/wp-content/uploads/2022/10/52423731028_ea09df9041_o2-1-300x246.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Un prix décerné chaque année par la Commission européenne à deux jeunes journalistes européens prometteurs.]]></description>
+					<description><![CDATA[<div><img width="300" height="246" src="https://epjt.fr/wp-content/uploads/2022/10/52423731028_ea09df9041_o2-1-300x246.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Un prix décerné chaque année par la Commission européenne à deux jeunes journalistes européens prometteurs.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Décès de notre ancien étudiant Guillaume Sauzer</title>
-		<link>/deces-de-notre-ancien-etudiant-guillaume-sauzer/</link>
+		<link>https://epjt.fr/deces-de-notre-ancien-etudiant-guillaume-sauzer/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 14 Oct 2022 16:03:41 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12536</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2022/10/received_1291763888241453-300x200.jpeg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT a appris avec tristesse le décès de son ancien étudiant, Guillaume Sauzer, survenu dans la nuit du samedi 8 au dimanche 9 2022, suite à un accident de moto]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2022/10/received_1291763888241453-300x200.jpeg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT a appris avec tristesse le décès de son ancien étudiant, Guillaume Sauzer, survenu dans la nuit du samedi 8 au dimanche 9 2022, suite à un accident de moto]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Un journalisme à la hauteur de l’urgence écologique</title>
-		<link>/charte-journalisme-urgence-ecologique/</link>
+		<link>https://epjt.fr/charte-journalisme-urgence-ecologique/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 19 Sep 2022 10:17:49 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12462</guid>
 
-					<description><![CDATA[<div><img width="300" height="185" src="/wp-content/uploads/2022/09/Charte-urgence-ecologique-300x185.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L’EPJT, ses étudiants et son équipe pédagogique, sont très sensibles aux problématiques liées aux enjeux climatiques. C'est pourquoi elle a été parmi les premières écoles à signer la charte pour un journalisme à la hauteur des enjeux climatiques. Un texte que nous reproduisons ici.]]></description>
+					<description><![CDATA[<div><img width="300" height="185" src="https://epjt.fr/wp-content/uploads/2022/09/Charte-urgence-ecologique-300x185.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L’EPJT, ses étudiants et son équipe pédagogique, sont très sensibles aux problématiques liées aux enjeux climatiques. C'est pourquoi elle a été parmi les premières écoles à signer la charte pour un journalisme à la hauteur des enjeux climatiques. Un texte que nous reproduisons ici.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Lucas Barioulet, prix Rémi Ochlik</title>
-		<link>/lucas-barioulet-prix-remi-ochlik/</link>
+		<link>https://epjt.fr/lucas-barioulet-prix-remi-ochlik/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Thu, 15 Sep 2022 11:43:36 +0000</pubDate>
@@ -253,42 +253,42 @@
 		<category><![CDATA[Visa pour l'image]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12401</guid>
 
-					<description><![CDATA[<div><img width="300" height="300" src="/wp-content/uploads/2022/09/51589353835_01c107a649_c-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Notre ancien étudiant, Lucas Barioulet, a reçu le prix Remi-Ochlik de la ville de Perpignan 2022 pour sa série « Ukraine, la guerre au quotidien ». L’EPJT lui adresse ses félicitations]]></description>
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2022/09/51589353835_01c107a649_c-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Notre ancien étudiant, Lucas Barioulet, a reçu le prix Remi-Ochlik de la ville de Perpignan 2022 pour sa série « Ukraine, la guerre au quotidien ». L’EPJT lui adresse ses félicitations]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Jour de rentrée à l’EPJT</title>
-		<link>/jour-de-rentree-a-lepjt/</link>
+		<link>https://epjt.fr/jour-de-rentree-a-lepjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 05 Sep 2022 14:40:04 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12376</guid>
 
-					<description><![CDATA[<div><img width="300" height="169" src="/wp-content/uploads/2022/09/20220902_104831-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Les étudiants de l’EPJT ont fait leur rentrée 2022. Les nouveaux, qui intègrent le master 1, ont pu découvrir les locaux de l’école le vendredi 2 septembre ; leurs camarades de master 2 les ont rejoints ce lundi 5 septembre.]]></description>
+					<description><![CDATA[<div><img width="300" height="169" src="https://epjt.fr/wp-content/uploads/2022/09/20220902_104831-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Les étudiants de l’EPJT ont fait leur rentrée 2022. Les nouveaux, qui intègrent le master 1, ont pu découvrir les locaux de l’école le vendredi 2 septembre ; leurs camarades de master 2 les ont rejoints ce lundi 5 septembre.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Décès de Jean-Baptiste Allemand</title>
-		<link>/deces-jean-baptiste-allemand/</link>
+		<link>https://epjt.fr/deces-jean-baptiste-allemand/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 10:15:09 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12335</guid>
 
-					<description><![CDATA[<div><img width="300" height="294" src="/wp-content/uploads/2022/08/JBA_OK-300x294.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/08/JBA_OK-300x294.jpg 300w, /wp-content/uploads/2022/08/JBA_OK.jpg 373w" sizes="(max-width: 300px) 100vw, 300px" /></div>L'EPJT a la tristesse d'apprendre le décès accidentel de son ancien étudiant, Jean-Baptiste Allemand, survenu lundi 19 août 2022. Jean-Baptiste avait 36 ans.]]></description>
+					<description><![CDATA[<div><img width="300" height="294" src="https://epjt.fr/wp-content/uploads/2022/08/JBA_OK-300x294.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2022/08/JBA_OK-300x294.jpg 300w, https://epjt.fr/wp-content/uploads/2022/08/JBA_OK.jpg 373w" sizes="(max-width: 300px) 100vw, 300px" /></div>L'EPJT a la tristesse d'apprendre le décès accidentel de son ancien étudiant, Jean-Baptiste Allemand, survenu lundi 19 août 2022. Jean-Baptiste avait 36 ans.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Paul Boyer et Rémi Carton récompensés par le Natali Prize</title>
-		<link>/paul-boyer-et-remi-carton-recompenses-par-le-natali-prize/</link>
+		<link>https://epjt.fr/paul-boyer-et-remi-carton-recompenses-par-le-natali-prize/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 24 Jun 2022 15:51:30 +0000</pubDate>
@@ -301,14 +301,14 @@
 		<category><![CDATA[récompense]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12284</guid>
 
-					<description><![CDATA[<div><img width="300" height="169" src="/wp-content/uploads/2022/06/52169885060_404b1e8639_e-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>A l'automne 2021, tout frais émoulus de l'école, ils partaient à Haïti pour y effectuer des reportages. Le 23 juin 2022, Paul et Rémi recevaient à Bruxelles le prix Lorenzo Natali dans la catégorie Prix du meilleur Journaliste émergent.]]></description>
+					<description><![CDATA[<div><img width="300" height="169" src="https://epjt.fr/wp-content/uploads/2022/06/52169885060_404b1e8639_e-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>A l'automne 2021, tout frais émoulus de l'école, ils partaient à Haïti pour y effectuer des reportages. Le 23 juin 2022, Paul et Rémi recevaient à Bruxelles le prix Lorenzo Natali dans la catégorie Prix du meilleur Journaliste émergent.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Elles ont ramené la coupe à la maison</title>
-		<link>/elles-ont-ramene-la-coupe-a-la-maison/</link>
+		<link>https://epjt.fr/elles-ont-ramene-la-coupe-a-la-maison/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 23 May 2022 13:01:51 +0000</pubDate>
@@ -319,7 +319,7 @@
 		<category><![CDATA[TFIEJ]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12235</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2022/05/52065725048_bc81ef78a1_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Une nouvelle coupe et une étrange marte empaillée trônent à l’EPJT depuis quelques semaines. L’équipe féminine de l’Ecole publique de journalisme de Tours est revenue de Rennes, samedi 12 mars, avec le titre de championne du Tournoi inter écoles de journalisme 2022, organisé par l’IUT de Lannion.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2022/05/52065725048_bc81ef78a1_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Une nouvelle coupe et une étrange marte empaillée trônent à l’EPJT depuis quelques semaines. L’équipe féminine de l’Ecole publique de journalisme de Tours est revenue de Rennes, samedi 12 mars, avec le titre de championne du Tournoi inter écoles de journalisme 2022, organisé par l’IUT de Lannion.]]></description>
 		
 		
 		<enclosure url="https://epjt.fr/wp-content/uploads/2022/05/52066193460_e45b7573b6_vm.mp4" length="3184525" type="video/mp4" />
@@ -327,7 +327,7 @@
 			</item>
 		<item>
 		<title>Café Europa, informer dans l’urgence avec exigence</title>
-		<link>/cafe-europa-2022-informer-dans-lurgence-mais-avec-exigence/</link>
+		<link>https://epjt.fr/cafe-europa-2022-informer-dans-lurgence-mais-avec-exigence/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 23 May 2022 09:00:29 +0000</pubDate>
@@ -339,14 +339,14 @@
 		<category><![CDATA[presse]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12258</guid>
 
-					<description><![CDATA[<div><img width="300" height="202" src="/wp-content/uploads/2022/05/51921621916_058cc492b1_w-300x202.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/05/51921621916_058cc492b1_w-300x202.jpg 300w, /wp-content/uploads/2022/05/51921621916_058cc492b1_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Renouer la confiance entre le public et les journalistes, malgré l’abondance de fausses informations, voilà l’objectif du Café Europa qui s’est tenu à Tours, le 5 mars 2022. Une rencontre animée par des étudiants de l’EPJT et initiée par l’Institut français.]]></description>
+					<description><![CDATA[<div><img width="300" height="202" src="https://epjt.fr/wp-content/uploads/2022/05/51921621916_058cc492b1_w-300x202.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2022/05/51921621916_058cc492b1_w-300x202.jpg 300w, https://epjt.fr/wp-content/uploads/2022/05/51921621916_058cc492b1_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Renouer la confiance entre le public et les journalistes, malgré l’abondance de fausses informations, voilà l’objectif du Café Europa qui s’est tenu à Tours, le 5 mars 2022. Une rencontre animée par des étudiants de l’EPJT et initiée par l’Institut français.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Publication de l&#8217;enquête de nos étudiants au Liban</title>
-		<link>/etudiants-reportage-liban/</link>
+		<link>https://epjt.fr/etudiants-reportage-liban/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 06 Apr 2022 12:00:42 +0000</pubDate>
@@ -356,42 +356,42 @@
 		<category><![CDATA[voyage]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12070</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2022/01/51828111124_2050cf6211_o-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Le 11 décembre 2021,cinq étudiants de l’EPJT se sont envolés pour le Liban. L’objectif : discuter, regarder, observer et (s’)interroger sur un pays en proie depuis de nombreuses années à une instabilité économique et sociale.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2022/01/51828111124_2050cf6211_o-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Le 11 décembre 2021,cinq étudiants de l’EPJT se sont envolés pour le Liban. L’objectif : discuter, regarder, observer et (s’)interroger sur un pays en proie depuis de nombreuses années à une instabilité économique et sociale.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Des étudiants initiés au reportage de guerre</title>
-		<link>/des-etudiants-inities-au-reportage-de-guerre/</link>
+		<link>https://epjt.fr/des-etudiants-inities-au-reportage-de-guerre/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Sun, 27 Mar 2022 13:54:53 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12196</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2022/03/51962569090_b50b54f749_o-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Dans le cadre d’un partenariat avec les Écoles militaires de Bourges, les étudiants en deuxième année de master de journalisme de l’EPJT ont intégré le camp d’entraînement de La Courtine. Leur mission : apprendre à traiter l’information face à des lieutenants en manœuvres.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2022/03/51962569090_b50b54f749_o-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Dans le cadre d’un partenariat avec les Écoles militaires de Bourges, les étudiants en deuxième année de master de journalisme de l’EPJT ont intégré le camp d’entraînement de La Courtine. Leur mission : apprendre à traiter l’information face à des lieutenants en manœuvres.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Victor Dubois Carat et Marion Galard récompensés par l’Ajcam</title>
-		<link>/victor-dubois-carat-et-marion-galard-recompenses-par-lajcam/</link>
+		<link>https://epjt.fr/victor-dubois-carat-et-marion-galard-recompenses-par-lajcam/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 14 Mar 2022 23:01:48 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12171</guid>
 
-					<description><![CDATA[<div><img width="300" height="291" src="/wp-content/uploads/2022/03/DSC_0265-300x291.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/03/DSC_0265-300x291.jpg 300w, /wp-content/uploads/2022/03/DSC_0265-1024x992.jpg 1024w, /wp-content/uploads/2022/03/DSC_0265-1536x1488.jpg 1536w, /wp-content/uploads/2022/03/DSC_0265-2048x1984.jpg 2048w, /wp-content/uploads/2022/03/DSC_0265-1080x1046.jpg 1080w, /wp-content/uploads/2022/03/DSC_0265-1280x1240.jpg 1280w, /wp-content/uploads/2022/03/DSC_0265-980x949.jpg 980w, /wp-content/uploads/2022/03/DSC_0265-480x465.jpg 480w, /wp-content/uploads/2022/03/DSC_0265-scaled-e1647297075608.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le 9 mars, l’Ajcam distribuait les prix de sa deuxième édition de Talents à la une, un concours, destiné aux étudiants en école de journalisme. L’EPJT a vu deux de ses étudiants couronnés.]]></description>
+					<description><![CDATA[<div><img width="300" height="291" src="https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-300x291.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-300x291.jpg 300w, https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-1024x992.jpg 1024w, https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-1536x1488.jpg 1536w, https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-2048x1984.jpg 2048w, https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-1080x1046.jpg 1080w, https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-1280x1240.jpg 1280w, https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-980x949.jpg 980w, https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-480x465.jpg 480w, https://epjt.fr/wp-content/uploads/2022/03/DSC_0265-scaled-e1647297075608.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le 9 mars, l’Ajcam distribuait les prix de sa deuxième édition de Talents à la une, un concours, destiné aux étudiants en école de journalisme. L’EPJT a vu deux de ses étudiants couronnés.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Venez débattre avec des journalistes sur le thème : Fake news et désinformation, les défis journalistiques, risques démocratiques</title>
-		<link>/cafe-europa-debattre-avec-des-journalistes/</link>
+		<link>https://epjt.fr/cafe-europa-debattre-avec-des-journalistes/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Tue, 01 Mar 2022 18:26:58 +0000</pubDate>
@@ -404,14 +404,14 @@
 		<category><![CDATA[journalisme]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12121</guid>
 
-					<description><![CDATA[<div><img width="300" height="206" src="/wp-content/uploads/2022/03/51912033331_5f4b34aa90_w-300x206.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/03/51912033331_5f4b34aa90_w-300x206.jpg 300w, /wp-content/uploads/2022/03/51912033331_5f4b34aa90_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le 5 mars, à Tours, un Café Europa se tiendra à Tours, au café de l'Univers, en lien avec l'Ecole publique de journalisme de Tours. Venez discuter avec des journalistes et des étudiants de l'école sur la liberté de la presse et son avenir.]]></description>
+					<description><![CDATA[<div><img width="300" height="206" src="https://epjt.fr/wp-content/uploads/2022/03/51912033331_5f4b34aa90_w-300x206.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2022/03/51912033331_5f4b34aa90_w-300x206.jpg 300w, https://epjt.fr/wp-content/uploads/2022/03/51912033331_5f4b34aa90_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le 5 mars, à Tours, un Café Europa se tiendra à Tours, au café de l'Univers, en lien avec l'Ecole publique de journalisme de Tours. Venez discuter avec des journalistes et des étudiants de l'école sur la liberté de la presse et son avenir.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Une résidence d’artiste contre la désinformation</title>
-		<link>/une-residence-dartiste-contre-la-desinformation/</link>
+		<link>https://epjt.fr/une-residence-dartiste-contre-la-desinformation/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 19 Nov 2021 11:36:57 +0000</pubDate>
@@ -426,14 +426,14 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11885</guid>
 
-					<description><![CDATA[<div><img width="300" height="225" src="/wp-content/uploads/2021/11/51688637857_6c6d868e66_b-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Le mercredi 24 novembre 2021, l’université de Tours organise une grande soirée de lancement de la résidence de la romancière Julia Deck. Avec elle, des enseignants-chercheurs évoqueront les enjeux de la désinformation. Un événement ouvert à tous et gratuit.]]></description>
+					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2021/11/51688637857_6c6d868e66_b-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Le mercredi 24 novembre 2021, l’université de Tours organise une grande soirée de lancement de la résidence de la romancière Julia Deck. Avec elle, des enseignants-chercheurs évoqueront les enjeux de la désinformation. Un événement ouvert à tous et gratuit.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Les Assises du journalisme, un projet EPJT</title>
-		<link>/les-assises-du-journalisme-un-projet-epjt/</link>
+		<link>https://epjt.fr/les-assises-du-journalisme-un-projet-epjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 01 Oct 2021 07:59:27 +0000</pubDate>
@@ -441,14 +441,14 @@
 		<category><![CDATA[Assises du journalisme]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11841</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2021/10/51539200079_386883518a_w-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2021/10/51539200079_386883518a_w-300x200.jpg 300w, /wp-content/uploads/2021/10/51539200079_386883518a_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>​L’EPJT est le principal média des Assises internationales du journalisme. Elle y réalise des publications print et web et contribue à la couverture de la manifestation sur Internet et les réseaux sociaux : un véritable projet pédagogique et professionnel, en conditions réelles.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2021/10/51539200079_386883518a_w-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2021/10/51539200079_386883518a_w-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2021/10/51539200079_386883518a_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>​L’EPJT est le principal média des Assises internationales du journalisme. Elle y réalise des publications print et web et contribue à la couverture de la manifestation sur Internet et les réseaux sociaux : un véritable projet pédagogique et professionnel, en conditions réelles.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Remise du premier diplôme de master de l’EPJT</title>
-		<link>/remise-du-premier-diplome-de-master-de-lepjt/</link>
+		<link>https://epjt.fr/remise-du-premier-diplome-de-master-de-lepjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Thu, 15 Jul 2021 08:00:07 +0000</pubDate>
@@ -461,14 +461,14 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11603</guid>
 
-					<description><![CDATA[<div><img width="300" height="169" src="/wp-content/uploads/2021/05/20210521_172609-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Notre école, qui forme au journalisme depuis 1968, vient de connaître un renouvellement inédit de ses diplômes. Depuis 2018, elle prépare en effet ses étudiants à un master. Et vendredi 21 juin, elle remettait ce diplôme à la toute première promotion]]></description>
+					<description><![CDATA[<div><img width="300" height="169" src="https://epjt.fr/wp-content/uploads/2021/05/20210521_172609-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Notre école, qui forme au journalisme depuis 1968, vient de connaître un renouvellement inédit de ses diplômes. Depuis 2018, elle prépare en effet ses étudiants à un master. Et vendredi 21 juin, elle remettait ce diplôme à la toute première promotion]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Le temps d’un café</title>
-		<link>/le-temps-dun-cafe/</link>
+		<link>https://epjt.fr/le-temps-dun-cafe/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 09 Jul 2021 12:51:00 +0000</pubDate>
@@ -482,14 +482,14 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11753</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2021/07/51297205719_9d48c1f689_w-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2021/07/51297205719_9d48c1f689_w-300x200.jpg 300w, /wp-content/uploads/2021/07/51297205719_9d48c1f689_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>L’Université de Tours et l'EPJT ont inauguré une exposition inédite qui mêle photos et podcasts sur des thèmes autour de l'alimentation. Elle est le résultat d’un parcours proposé aux étudiants de deuxième année de l’EPJT en partenariat avec le master Cultures et patrimoines de l'alimentation du CESR]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2021/07/51297205719_9d48c1f689_w-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2021/07/51297205719_9d48c1f689_w-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2021/07/51297205719_9d48c1f689_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>L’Université de Tours et l'EPJT ont inauguré une exposition inédite qui mêle photos et podcasts sur des thèmes autour de l'alimentation. Elle est le résultat d’un parcours proposé aux étudiants de deuxième année de l’EPJT en partenariat avec le master Cultures et patrimoines de l'alimentation du CESR]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Les conférences de l’EPJT</title>
-		<link>/les-conferences-de-lepjt/</link>
+		<link>https://epjt.fr/les-conferences-de-lepjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 30 Jun 2021 07:33:04 +0000</pubDate>
@@ -498,42 +498,42 @@
 		<category><![CDATA[EPJT]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11693</guid>
 
-					<description><![CDATA[<div><img width="300" height="166" src="/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-300x166.jpeg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-300x166.jpeg 300w, /wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-1024x566.jpeg 1024w, /wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-1080x597.jpeg 1080w, /wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-980x542.jpeg 980w, /wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-480x266.jpeg 480w, /wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-e1624992631890.jpeg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Parcours pro « Cycle de conférences EPJT » : retour sur les invités et les thèmes de l’année 2020-2021]]></description>
+					<description><![CDATA[<div><img width="300" height="166" src="https://epjt.fr/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-300x166.jpeg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-300x166.jpeg 300w, https://epjt.fr/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-1024x566.jpeg 1024w, https://epjt.fr/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-1080x597.jpeg 1080w, https://epjt.fr/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-980x542.jpeg 980w, https://epjt.fr/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-480x266.jpeg 480w, https://epjt.fr/wp-content/uploads/2021/06/CAPTURE3_TR_EPJT_Eduquer_face_aux_fausses_infos_16fev2021-e1624992631890.jpeg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Parcours pro « Cycle de conférences EPJT » : retour sur les invités et les thèmes de l’année 2020-2021]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Les fake news en expo en partenariat avec l’EPJT</title>
-		<link>/une-exposition-sur-les-fake-news-en-partenariat-avec-lepjt/</link>
+		<link>https://epjt.fr/une-exposition-sur-les-fake-news-en-partenariat-avec-lepjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Thu, 27 May 2021 17:12:36 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11640</guid>
 
-					<description><![CDATA[<div><img width="300" height="212" src="/wp-content/uploads/2021/05/affiche_horiz_27mai-865x611-1-300x212.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT est heureuse d’annoncer l'ouverture de l'expo Fake News : art, fiction et mensonge à l'espace Fondation EDF. Une exposition à laquelle elle a été largement associée.]]></description>
+					<description><![CDATA[<div><img width="300" height="212" src="https://epjt.fr/wp-content/uploads/2021/05/affiche_horiz_27mai-865x611-1-300x212.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT est heureuse d’annoncer l'ouverture de l'expo Fake News : art, fiction et mensonge à l'espace Fondation EDF. Une exposition à laquelle elle a été largement associée.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Au revoir Louise !</title>
-		<link>/au-revoir-louise/</link>
+		<link>https://epjt.fr/au-revoir-louise/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Thu, 22 Apr 2021 12:41:09 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11557</guid>
 
-					<description><![CDATA[<div><img width="295" height="300" src="/wp-content/uploads/2021/04/46518398404_84aec915a6_c-3-295x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT a la tristesse d'apprendre le décès de son ancienne étudiante Louise Baliguet, survenu le lundi 19 avril 2021. Louise avait 24 ans. ]]></description>
+					<description><![CDATA[<div><img width="295" height="300" src="https://epjt.fr/wp-content/uploads/2021/04/46518398404_84aec915a6_c-3-295x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT a la tristesse d'apprendre le décès de son ancienne étudiante Louise Baliguet, survenu le lundi 19 avril 2021. Louise avait 24 ans. ]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Une résidence d’artiste sur les enjeux de la désinformation</title>
-		<link>/une-residence-dartiste-sur-les-enjeux-de-la-desinformation/</link>
+		<link>https://epjt.fr/une-residence-dartiste-sur-les-enjeux-de-la-desinformation/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 16 Apr 2021 17:09:24 +0000</pubDate>
@@ -546,28 +546,28 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11500</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2014/01/WDK4579-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2014/01/WDK4579-300x200.jpg 300w, /wp-content/uploads/2014/01/WDK4579-82x55.jpg 82w, /wp-content/uploads/2014/01/WDK4579-75x50.jpg 75w, /wp-content/uploads/2014/01/WDK4579.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></div>Prim propose une résidence d'artiste pour l'année 2021-2022. Ce ou cette artiste interrogera les chercheurs dans leurs pratiques de recherche sur la désinformation et les fera évoluer dans leurs conceptions, leurs pratiques et leurs résultats.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2014/01/WDK4579-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2014/01/WDK4579-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2014/01/WDK4579-82x55.jpg 82w, https://epjt.fr/wp-content/uploads/2014/01/WDK4579-75x50.jpg 75w, https://epjt.fr/wp-content/uploads/2014/01/WDK4579.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></div>Prim propose une résidence d'artiste pour l'année 2021-2022. Ce ou cette artiste interrogera les chercheurs dans leurs pratiques de recherche sur la désinformation et les fera évoluer dans leurs conceptions, leurs pratiques et leurs résultats.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Les étudiants radio sur les grandes ondes</title>
-		<link>/etudiants-radio-grandes-ondes/</link>
+		<link>https://epjt.fr/etudiants-radio-grandes-ondes/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 24 Mar 2021 16:21:27 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11469</guid>
 
-					<description><![CDATA[<div><img width="300" height="300" src="/wp-content/uploads/2021/03/RFI_logo_2013.svg_-300x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT a conclu un accord avec RFI pour réaliser du fact-checking à l'antenne. Les étudiants de 2e année réalisent une chronique de fact-checking pour l’émission « Les Dessous de l’infox » sous la houlette de Sophie Malibeaux, journaliste à RFI.]]></description>
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2021/03/RFI_logo_2013.svg_-300x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT a conclu un accord avec RFI pour réaliser du fact-checking à l'antenne. Les étudiants de 2e année réalisent une chronique de fact-checking pour l’émission « Les Dessous de l’infox » sous la houlette de Sophie Malibeaux, journaliste à RFI.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Guillaume Marque remporte le prix Varenne du JRI international</title>
-		<link>/guillaume-marque-remporte-le-prix-varennes-du-jri-international/</link>
+		<link>https://epjt.fr/guillaume-marque-remporte-le-prix-varennes-du-jri-international/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 10 Mar 2021 00:37:36 +0000</pubDate>
@@ -577,7 +577,7 @@
 		<category><![CDATA[prix]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11431</guid>
 
-					<description><![CDATA[<div><img width="300" height="171" src="/wp-content/uploads/2021/03/Guillaume-Marque-300x171.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Parmi les lauréats des prix de la Fondation Varenne 2020, notre ancien étudiant, Guillaume Marque. Il a été récompensé pour un très beau reportage « Mali, les sourires de l’espoir ». Félicitations à lui]]></description>
+					<description><![CDATA[<div><img width="300" height="171" src="https://epjt.fr/wp-content/uploads/2021/03/Guillaume-Marque-300x171.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Parmi les lauréats des prix de la Fondation Varenne 2020, notre ancien étudiant, Guillaume Marque. Il a été récompensé pour un très beau reportage « Mali, les sourires de l’espoir ». Félicitations à lui]]></description>
 		
 		
 		<enclosure url="https://www.fondationvarenne.fr/wp-content/uploads/ninja-forms/17/Mali-les-sourires-de-lespoir.mp4" length="49600576" type="video/mp4" />
@@ -585,7 +585,7 @@
 			</item>
 		<item>
 		<title>La VAE à l’EPJT</title>
-		<link>/la-vae-a-lepjt/</link>
+		<link>https://epjt.fr/la-vae-a-lepjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 16 Dec 2020 16:01:08 +0000</pubDate>
@@ -595,14 +595,14 @@
 		<category><![CDATA[VAE]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11374</guid>
 
-					<description><![CDATA[<div><img width="300" height="154" src="/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-300x154.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-300x154.png 300w, /wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1024x526.png 1024w, /wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1536x789.png 1536w, /wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1080x554.png 1080w, /wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1280x657.png 1280w, /wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-980x503.png 980w, /wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-480x246.png 480w, /wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-e1608126825922.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le master de journalisme de l'EPJT est accessible via la validation des acquis de l’expérience (VAE). Ainsi, les journalistes professionnels en CDI, en CDD ou pigistes, quel que soit leur âge, peuvent valider un bac+5.]]></description>
+					<description><![CDATA[<div><img width="300" height="154" src="https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-300x154.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-300x154.png 300w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1024x526.png 1024w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1536x789.png 1536w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1080x554.png 1080w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1280x657.png 1280w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-980x503.png 980w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-480x246.png 480w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-e1608126825922.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le master de journalisme de l'EPJT est accessible via la validation des acquis de l’expérience (VAE). Ainsi, les journalistes professionnels en CDI, en CDD ou pigistes, quel que soit leur âge, peuvent valider un bac+5.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>L’EPJT à l’heure américaine</title>
-		<link>/lepjt-a-lheure-americaine/</link>
+		<link>https://epjt.fr/lepjt-a-lheure-americaine/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 23 Oct 2020 22:32:57 +0000</pubDate>
@@ -614,14 +614,14 @@
 		<category><![CDATA[webinaire]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11317</guid>
 
-					<description><![CDATA[<div><img width="300" height="185" src="/wp-content/uploads/2020/10/flag-1294654_1280-300x185.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Dans moins de deux semaines, les Américains se rendront aux urnes pour désigner leur futur président ainsi que leurs représentants nationaux aux législatives. Les étudiants de l’EPJT ont eu la chance de suivre l'action sur le terrain, virtuellement du moins grâce à l'ambassade des Etats-Unis.]]></description>
+					<description><![CDATA[<div><img width="300" height="185" src="https://epjt.fr/wp-content/uploads/2020/10/flag-1294654_1280-300x185.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Dans moins de deux semaines, les Américains se rendront aux urnes pour désigner leur futur président ainsi que leurs représentants nationaux aux législatives. Les étudiants de l’EPJT ont eu la chance de suivre l'action sur le terrain, virtuellement du moins grâce à l'ambassade des Etats-Unis.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Rentrée masquée à l’EPJT</title>
-		<link>/rentree-masquee-a-lepjt/</link>
+		<link>https://epjt.fr/rentree-masquee-a-lepjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 02 Sep 2020 20:26:54 +0000</pubDate>
@@ -632,42 +632,42 @@
 		<category><![CDATA[rentrée universitaire]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11290</guid>
 
-					<description><![CDATA[<div><img width="300" height="225" src="/wp-content/uploads/2020/09/50298372373_d329e1f9fc_w-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2020/09/50298372373_d329e1f9fc_w-300x225.jpg 300w, /wp-content/uploads/2020/09/50298372373_d329e1f9fc_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le 2 septembre, l'équipe pédagogique de l'’EPJT a été heureuse d'accueillir la nouvelle promotion de Master.]]></description>
+					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2020/09/50298372373_d329e1f9fc_w-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2020/09/50298372373_d329e1f9fc_w-300x225.jpg 300w, https://epjt.fr/wp-content/uploads/2020/09/50298372373_d329e1f9fc_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le 2 septembre, l'équipe pédagogique de l'’EPJT a été heureuse d'accueillir la nouvelle promotion de Master.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>EPJT, une fin d’année mouvementée</title>
-		<link>/epjt-une-fin-dannee-mouvementee/</link>
+		<link>https://epjt.fr/epjt-une-fin-dannee-mouvementee/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 22 Jun 2020 10:38:56 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11159</guid>
 
-					<description><![CDATA[<div><img width="300" height="225" src="/wp-content/uploads/2020/06/AR_4143-Modifier-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2020/06/AR_4143-Modifier-300x225.jpg 300w, /wp-content/uploads/2020/06/AR_4143-Modifier-1024x768.jpg 1024w, /wp-content/uploads/2020/06/AR_4143-Modifier-1536x1152.jpg 1536w, /wp-content/uploads/2020/06/AR_4143-Modifier-2048x1536.jpg 2048w, /wp-content/uploads/2020/06/AR_4143-Modifier-510x382.jpg 510w, /wp-content/uploads/2020/06/AR_4143-Modifier-1080x810.jpg 1080w, /wp-content/uploads/2020/06/AR_4143-Modifier-1280x960.jpg 1280w, /wp-content/uploads/2020/06/AR_4143-Modifier-980x735.jpg 980w, /wp-content/uploads/2020/06/AR_4143-Modifier-480x360.jpg 480w, /wp-content/uploads/2020/06/AR_4143-Modifier-scaled-e1592774927681.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Comme toutes les écoles, la nôtre a été très perturbée par la crise sanitaire. Mais la fermeture des locaux n’a pas empêché les étudiants de s’investir ni de finir leurs travaux.]]></description>
+					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-300x225.jpg 300w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-1024x768.jpg 1024w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-1536x1152.jpg 1536w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-2048x1536.jpg 2048w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-510x382.jpg 510w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-1080x810.jpg 1080w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-1280x960.jpg 1280w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-980x735.jpg 980w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-480x360.jpg 480w, https://epjt.fr/wp-content/uploads/2020/06/AR_4143-Modifier-scaled-e1592774927681.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Comme toutes les écoles, la nôtre a été très perturbée par la crise sanitaire. Mais la fermeture des locaux n’a pas empêché les étudiants de s’investir ni de finir leurs travaux.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Information EPJT – Epidémie de Coronavirus</title>
-		<link>/information-epjt-epidemie-de-coronavirus/</link>
+		<link>https://epjt.fr/information-epjt-epidemie-de-coronavirus/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 18 Mar 2020 15:41:03 +0000</pubDate>
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11125</guid>
 
-					<description><![CDATA[<div><img width="300" height="131" src="/wp-content/uploads/2020/03/Coronavirus-300x131.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Les locaux de l'Université de Tours et de l'Ecole publique de journalisme de Tours sont actuellement fermés et les lignes téléphoniques habituelles sont inopérantes. Toutefois, l’EPJT poursuit à distance ses activités pédagogiques et son processus de recrutement via le concours d'entrée.]]></description>
+					<description><![CDATA[<div><img width="300" height="131" src="https://epjt.fr/wp-content/uploads/2020/03/Coronavirus-300x131.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Les locaux de l'Université de Tours et de l'Ecole publique de journalisme de Tours sont actuellement fermés et les lignes téléphoniques habituelles sont inopérantes. Toutefois, l’EPJT poursuit à distance ses activités pédagogiques et son processus de recrutement via le concours d'entrée.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>L’EPJT s’invite à l’Assemblée</title>
-		<link>/lepjt-sinvite-a-lassemblee/</link>
+		<link>https://epjt.fr/lepjt-sinvite-a-lassemblee/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 29 Jan 2020 22:57:13 +0000</pubDate>
@@ -677,14 +677,14 @@
 		<category><![CDATA[Prix livre politique]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11083</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2020/01/Manon_Lydia-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2020/01/Manon_Lydia-300x200.jpg 300w, /wp-content/uploads/2020/01/Manon_Lydia-1024x683.jpg 1024w, /wp-content/uploads/2020/01/Manon_Lydia-1536x1024.jpg 1536w, /wp-content/uploads/2020/01/Manon_Lydia-2048x1365.jpg 2048w, /wp-content/uploads/2020/01/Manon_Lydia-1080x720.jpg 1080w, /wp-content/uploads/2020/01/Manon_Lydia-1280x854.jpg 1280w, /wp-content/uploads/2020/01/Manon_Lydia-980x653.jpg 980w, /wp-content/uploads/2020/01/Manon_Lydia-480x320.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></div>]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-1024x683.jpg 1024w, https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-1536x1024.jpg 1536w, https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-2048x1365.jpg 2048w, https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-1080x720.jpg 1080w, https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-1280x854.jpg 1280w, https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-980x653.jpg 980w, https://epjt.fr/wp-content/uploads/2020/01/Manon_Lydia-480x320.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></div>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Deux intervenants de l’EPJT forment de futurs journalistes centrafricains</title>
-		<link>/deux-intervenants-de-lepjt-forment-de-futurs-journalistes-centrafricains/</link>
+		<link>https://epjt.fr/deux-intervenants-de-lepjt-forment-de-futurs-journalistes-centrafricains/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Thu, 26 Dec 2019 01:01:49 +0000</pubDate>
@@ -692,14 +692,14 @@
 		<category><![CDATA[Zoom sur...]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11047</guid>
 
-					<description><![CDATA[<div><img width="300" height="213" src="/wp-content/uploads/2019/12/Dimitri-300x213.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/12/Dimitri-300x213.jpg 300w, /wp-content/uploads/2019/12/Dimitri-1024x728.jpg 1024w, /wp-content/uploads/2019/12/Dimitri-400x284.jpg 400w, /wp-content/uploads/2019/12/Dimitri-1080x768.jpg 1080w, /wp-content/uploads/2019/12/Dimitri-980x697.jpg 980w, /wp-content/uploads/2019/12/Dimitri-480x341.jpg 480w, /wp-content/uploads/2019/12/Dimitri-e1577322365545.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></div>Après l’accueil de quatre étudiants centrafricains en master, l’EPJT poursuit son action de coopération avec l’ambassade de France et le département information et communication de la faculté de lettres de Bangui. Une trentaine d’étudiants de L2 et une vingtaine d’étudiants de L3 ont ainsi bénéficié d’un renforcement de leurs connaissances en presse écrite et en [&#8230;]]]></description>
+					<description><![CDATA[<div><img width="300" height="213" src="https://epjt.fr/wp-content/uploads/2019/12/Dimitri-300x213.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2019/12/Dimitri-300x213.jpg 300w, https://epjt.fr/wp-content/uploads/2019/12/Dimitri-1024x728.jpg 1024w, https://epjt.fr/wp-content/uploads/2019/12/Dimitri-400x284.jpg 400w, https://epjt.fr/wp-content/uploads/2019/12/Dimitri-1080x768.jpg 1080w, https://epjt.fr/wp-content/uploads/2019/12/Dimitri-980x697.jpg 980w, https://epjt.fr/wp-content/uploads/2019/12/Dimitri-480x341.jpg 480w, https://epjt.fr/wp-content/uploads/2019/12/Dimitri-e1577322365545.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></div>Après l’accueil de quatre étudiants centrafricains en master, l’EPJT poursuit son action de coopération avec l’ambassade de France et le département information et communication de la faculté de lettres de Bangui. Une trentaine d’étudiants de L2 et une vingtaine d’étudiants de L3 ont ainsi bénéficié d’un renforcement de leurs connaissances en presse écrite et en [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Les étudiants de l&#8217;EPJT participent à l&#8217;initiative #informerestmondevoir</title>
-		<link>/informer-est-mon-devoir/</link>
+		<link>https://epjt.fr/informer-est-mon-devoir/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Mon, 16 Dec 2019 13:45:42 +0000</pubDate>
@@ -712,14 +712,14 @@
 		<category><![CDATA[soutien]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11043</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="/wp-content/uploads/2019/12/FullSizeR1-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>La Conférence des écoles de journalisme (CEJ), qui regroupe les 14 écoles de journalisme reconnues par la profession, a publié vendredi 13 décembre le communiqué suivant : « Des étudiants de l&#8217;ESJ Lille ont été placés en garde à vue jeudi soir alors qu&#8217;ils assistaient à une manifestation et y prenaient des photos. La conférence [&#8230;]]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2019/12/FullSizeR1-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>La Conférence des écoles de journalisme (CEJ), qui regroupe les 14 écoles de journalisme reconnues par la profession, a publié vendredi 13 décembre le communiqué suivant : « Des étudiants de l&#8217;ESJ Lille ont été placés en garde à vue jeudi soir alors qu&#8217;ils assistaient à une manifestation et y prenaient des photos. La conférence [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Avec l&#8217;Académie Brassart-Delcourt, l’EPJT à l&#8217;heure de la Bande dessinée</title>
-		<link>/lepjt-a-lheure-de-la-bande-dessinee/</link>
+		<link>https://epjt.fr/lepjt-a-lheure-de-la-bande-dessinee/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2019 18:00:26 +0000</pubDate>
@@ -731,14 +731,14 @@
 		<category><![CDATA[reportage]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11037</guid>
 
-					<description><![CDATA[<div><img width="300" height="225" src="/wp-content/uploads/2019/12/20191213_133046-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/12/20191213_133046-300x225.jpg 300w, /wp-content/uploads/2019/12/20191213_133046-1024x768.jpg 1024w, /wp-content/uploads/2019/12/20191213_133046-1536x1152.jpg 1536w, /wp-content/uploads/2019/12/20191213_133046-2048x1536.jpg 2048w, /wp-content/uploads/2019/12/20191213_133046-510x382.jpg 510w, /wp-content/uploads/2019/12/20191213_133046-1080x810.jpg 1080w, /wp-content/uploads/2019/12/20191213_133046-1280x960.jpg 1280w, /wp-content/uploads/2019/12/20191213_133046-980x735.jpg 980w, /wp-content/uploads/2019/12/20191213_133046-480x360.jpg 480w, /wp-content/uploads/2019/12/20191213_133046-scaled-e1576495086547.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>Les étudiants de première année ont lancé leurs enquêtes magazine en début de mois de décembre. Cette semaine, ils ont travaillé en collaboration avec ceux de l&#8217;Académie Brassart-Delcourt, de Paris. Le but, réaliser des BD reportages qui illustreront leurs enquêtes. La BD à l&#8217;EPJT par epjt37 Ils ont travaillé d&#8217;arrache-pied pendant une semaine et vendredi [&#8230;]]]></description>
+					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-300x225.jpg 300w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-1024x768.jpg 1024w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-1536x1152.jpg 1536w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-2048x1536.jpg 2048w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-510x382.jpg 510w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-1080x810.jpg 1080w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-1280x960.jpg 1280w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-980x735.jpg 980w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-480x360.jpg 480w, https://epjt.fr/wp-content/uploads/2019/12/20191213_133046-scaled-e1576495086547.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>Les étudiants de première année ont lancé leurs enquêtes magazine en début de mois de décembre. Cette semaine, ils ont travaillé en collaboration avec ceux de l&#8217;Académie Brassart-Delcourt, de Paris. Le but, réaliser des BD reportages qui illustreront leurs enquêtes. La BD à l&#8217;EPJT par epjt37 Ils ont travaillé d&#8217;arrache-pied pendant une semaine et vendredi [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Des Centrafricains entrent en master de journalisme à l&#8217;EPJT</title>
-		<link>/des-centrafricains-a-lepjt/</link>
+		<link>https://epjt.fr/des-centrafricains-a-lepjt/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 11 Oct 2019 08:28:25 +0000</pubDate>
@@ -749,14 +749,14 @@
 		<category><![CDATA[TVTours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11031</guid>
 
-					<description><![CDATA[<div><img width="300" height="178" src="/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-300x178.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-300x178.png 300w, /wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-1024x607.png 1024w, /wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-1080x641.png 1080w, /wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-1280x759.png 1280w, /wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-980x581.png 980w, /wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-480x285.png 480w, /wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-e1570782453500.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>Les quatre étudiants centrafricains inscrits en master journalisme à l&#8217;EPJT viennent de s&#8217;installer dans leurs chambres, à la résidence universitaire Saint-Symphorien, près de l&#8217;IUT de Tours. Leur intégration dans leur promo s&#8217;est passée sous les meilleurs auspices. TV Tours les a rencontrés. L’occasion pour Nicolas Sourisce de revenir sur cet échange. &#160;]]></description>
+					<description><![CDATA[<div><img width="300" height="178" src="https://epjt.fr/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-300x178.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-300x178.png 300w, https://epjt.fr/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-1024x607.png 1024w, https://epjt.fr/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-1080x641.png 1080w, https://epjt.fr/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-1280x759.png 1280w, https://epjt.fr/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-980x581.png 980w, https://epjt.fr/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-480x285.png 480w, https://epjt.fr/wp-content/uploads/2019/10/Capture-d’écran-2019-10-11-à-10.25.07-e1570782453500.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>Les quatre étudiants centrafricains inscrits en master journalisme à l&#8217;EPJT viennent de s&#8217;installer dans leurs chambres, à la résidence universitaire Saint-Symphorien, près de l&#8217;IUT de Tours. Leur intégration dans leur promo s&#8217;est passée sous les meilleurs auspices. TV Tours les a rencontrés. L’occasion pour Nicolas Sourisce de revenir sur cet échange. &#160;]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Conférence démocratie et médias en Afrique</title>
-		<link>/conference-democratie-et-media-en-afrique/</link>
+		<link>https://epjt.fr/conference-democratie-et-media-en-afrique/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 25 Sep 2019 15:27:08 +0000</pubDate>
@@ -768,14 +768,14 @@
 		<category><![CDATA[média]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11021</guid>
 
-					<description><![CDATA[<div><img width="230" height="300" src="/wp-content/uploads/2019/09/20190925_164142-230x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Ce jeudi 26 septembre, l’EPJT organise, en partenariat avec l’association Médias &#38; Démocratie, une conférence-débat sur Démocratie et médias en Afrique Des professionnels du Monde Afrique (France / Cameroun), du site Inkyfada (Tunisie) et du Temps (Tunisie) et de l&#8217;école animeront ces débats auxquels participeront des étudiants en journalisme et des journalistes confirmés venus, entre [&#8230;]]]></description>
+					<description><![CDATA[<div><img width="230" height="300" src="https://epjt.fr/wp-content/uploads/2019/09/20190925_164142-230x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Ce jeudi 26 septembre, l’EPJT organise, en partenariat avec l’association Médias &#38; Démocratie, une conférence-débat sur Démocratie et médias en Afrique Des professionnels du Monde Afrique (France / Cameroun), du site Inkyfada (Tunisie) et du Temps (Tunisie) et de l&#8217;école animeront ces débats auxquels participeront des étudiants en journalisme et des journalistes confirmés venus, entre [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>De Bangui à Tours</title>
-		<link>/de-bangui-a-tours/</link>
+		<link>https://epjt.fr/de-bangui-a-tours/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 04 Sep 2019 09:38:59 +0000</pubDate>
@@ -786,14 +786,14 @@
 		<category><![CDATA[International]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=11011</guid>
 
-					<description><![CDATA[<div><img width="300" height="216" src="/wp-content/uploads/2019/09/20190831_153635-300x216.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Quatre étudiants de Centrafrique intègrent la nouvelle promotion du master journalisme.]]></description>
+					<description><![CDATA[<div><img width="300" height="216" src="https://epjt.fr/wp-content/uploads/2019/09/20190831_153635-300x216.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Quatre étudiants de Centrafrique intègrent la nouvelle promotion du master journalisme.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Longs formats, la collection de l&#8217;été 2017</title>
-		<link>/longs-formats-la-collection-de-lete-2017/</link>
+		<link>https://epjt.fr/longs-formats-la-collection-de-lete-2017/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Fri, 18 Aug 2017 18:32:58 +0000</pubDate>
@@ -803,28 +803,28 @@
 		<category><![CDATA[longform]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=10103</guid>
 
-					<description><![CDATA[<div><img width="300" height="117" src="/wp-content/uploads/2017/08/Collec_été2017-300x117.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/08/Collec_été2017-300x117.jpg 300w, /wp-content/uploads/2017/08/Collec_été2017-141x55.jpg 141w, /wp-content/uploads/2017/08/Collec_été2017.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Chaque année, les étudiants en Année spéciale ou en licence de l'EPJT mènent, en toute autonomie, une enquête sur les médias. C'est leur travail de fin d'année ou de fin d'études qu'ils livrent maquetté pour un format magazine.]]></description>
+					<description><![CDATA[<div><img width="300" height="117" src="https://epjt.fr/wp-content/uploads/2017/08/Collec_été2017-300x117.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/08/Collec_été2017-300x117.jpg 300w, https://epjt.fr/wp-content/uploads/2017/08/Collec_été2017-141x55.jpg 141w, https://epjt.fr/wp-content/uploads/2017/08/Collec_été2017.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Chaque année, les étudiants en Année spéciale ou en licence de l'EPJT mènent, en toute autonomie, une enquête sur les médias. C'est leur travail de fin d'année ou de fin d'études qu'ils livrent maquetté pour un format magazine.]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Disparition de Louise Merzeau</title>
-		<link>/disparition-de-louise-merzeau/</link>
+		<link>https://epjt.fr/disparition-de-louise-merzeau/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 19 Jul 2017 11:13:06 +0000</pubDate>
 				<category><![CDATA[Les productions]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=9899</guid>
 
-					<description><![CDATA[<div><img width="300" height="173" src="/wp-content/uploads/2017/07/Louise_Merzeau_0-300x173.jpeg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/Louise_Merzeau_0-300x173.jpeg 300w, /wp-content/uploads/2017/07/Louise_Merzeau_0-1024x592.jpeg 1024w, /wp-content/uploads/2017/07/Louise_Merzeau_0-95x55.jpeg 95w, /wp-content/uploads/2017/07/Louise_Merzeau_0-1080x624.jpeg 1080w, /wp-content/uploads/2017/07/Louise_Merzeau_0-e1505428642382.jpeg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>]]></description>
+					<description><![CDATA[<div><img width="300" height="173" src="https://epjt.fr/wp-content/uploads/2017/07/Louise_Merzeau_0-300x173.jpeg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/07/Louise_Merzeau_0-300x173.jpeg 300w, https://epjt.fr/wp-content/uploads/2017/07/Louise_Merzeau_0-1024x592.jpeg 1024w, https://epjt.fr/wp-content/uploads/2017/07/Louise_Merzeau_0-95x55.jpeg 95w, https://epjt.fr/wp-content/uploads/2017/07/Louise_Merzeau_0-1080x624.jpeg 1080w, https://epjt.fr/wp-content/uploads/2017/07/Louise_Merzeau_0-e1505428642382.jpeg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Marrakech : quelle politique verte pour la Ville rouge</title>
-		<link>/a-la-conquete-de-marrakech/</link>
+		<link>https://epjt.fr/a-la-conquete-de-marrakech/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2017 10:30:25 +0000</pubDate>
@@ -836,14 +836,14 @@
 		<category><![CDATA[multimédia]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=9812</guid>
 
-					<description><![CDATA[<div><img width="217" height="300" src="/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-217x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-217x300.png 217w, /wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-40x55.png 40w, /wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22.png 480w" sizes="(max-width: 217px) 100vw, 217px" /></div>Les étudiants en deuxième de DUT de journalisme ont investi la Ville rouge pendant une semaine pour découvrir les traces laissées par la COP22 qui s&#8217;est tenue là bas en novembre 2016. Vingt-cinq étudiants, sept jours, une ville, des kilomètres parcourus en taxis, en bus, et surtout à pied. Ils sont rentrés avec dans leur [&#8230;]]]></description>
+					<description><![CDATA[<div><img width="217" height="300" src="https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-217x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-217x300.png 217w, https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-40x55.png 40w, https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22.png 480w" sizes="(max-width: 217px) 100vw, 217px" /></div>Les étudiants en deuxième de DUT de journalisme ont investi la Ville rouge pendant une semaine pour découvrir les traces laissées par la COP22 qui s&#8217;est tenue là bas en novembre 2016. Vingt-cinq étudiants, sept jours, une ville, des kilomètres parcourus en taxis, en bus, et surtout à pied. Ils sont rentrés avec dans leur [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Innova explore l&#8217;intimité</title>
-		<link>/innova-explore-lintimite/</link>
+		<link>https://epjt.fr/innova-explore-lintimite/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
@@ -851,14 +851,14 @@
 		<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=9640</guid>
 
-					<description><![CDATA[<div><img width="211" height="300" src="/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-211x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-211x300.png 211w, /wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-39x55.png 39w, /wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29.png 344w" sizes="(max-width: 211px) 100vw, 211px" /></div>Le numéro 24 d&#8217;Innova, le magazine de l&#8217;école vient de paraître. Son thème : les nouvelles frontières de l&#8217;intimité. Comme chaque année, en septembre, le thème a été soumis aux apprentis journalistes de l&#8217;Année spéciale. En février, ils se sont lancé. En cinq semaines, de la première réunion de rédaction jusqu&#8217;au bouclage, ils ont enquêté, [&#8230;]]]></description>
+					<description><![CDATA[<div><img width="211" height="300" src="https://epjt.fr/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-211x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-211x300.png 211w, https://epjt.fr/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-39x55.png 39w, https://epjt.fr/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29.png 344w" sizes="(max-width: 211px) 100vw, 211px" /></div>Le numéro 24 d&#8217;Innova, le magazine de l&#8217;école vient de paraître. Son thème : les nouvelles frontières de l&#8217;intimité. Comme chaque année, en septembre, le thème a été soumis aux apprentis journalistes de l&#8217;Année spéciale. En février, ils se sont lancé. En cinq semaines, de la première réunion de rédaction jusqu&#8217;au bouclage, ils ont enquêté, [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>NDDL : ce que les candidats souhaitent</title>
-		<link>/nndl-ce-que-les-candidats-souhaitent/</link>
+		<link>https://epjt.fr/nndl-ce-que-les-candidats-souhaitent/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 12 Apr 2017 10:00:12 +0000</pubDate>
@@ -872,14 +872,14 @@
 			</item>
 		<item>
 		<title>Campagne de crowdfunding pour Innova</title>
-		<link>/campagne-de-crowdfunding-pour-innova/</link>
+		<link>https://epjt.fr/campagne-de-crowdfunding-pour-innova/</link>
 		
 		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
 		<pubDate>Wed, 08 Mar 2017 22:21:02 +0000</pubDate>
 				<category><![CDATA[Les productions archivées]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=9338</guid>
 
-					<description><![CDATA[<div><img width="300" height="208" src="/wp-content/uploads/2017/03/PhotoInnovas-300x208.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/03/PhotoInnovas-300x208.jpg 300w, /wp-content/uploads/2017/03/PhotoInnovas-79x55.jpg 79w, /wp-content/uploads/2017/03/PhotoInnovas-400x277.jpg 400w, /wp-content/uploads/2017/03/PhotoInnovas.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" /></div>Pour la troisième année consécutive, les étudiants en Année spéciale de l&#8217;EPJT lancent une campagne de crowdfunding. Comme les années précédentes, une partie sera utilisée pour financer leurs enquêtes et leurs reportages pour Innova, leur magazine. L&#8217;autre partie participera aux frais d&#8217;impression du magazine. Textes, photos, maquette, secrétariat de rédaction, illustrations, ils feront tout. La [&#8230;]]]></description>
+					<description><![CDATA[<div><img width="300" height="208" src="https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas-300x208.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas-300x208.jpg 300w, https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas-79x55.jpg 79w, https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas-400x277.jpg 400w, https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" /></div>Pour la troisième année consécutive, les étudiants en Année spéciale de l&#8217;EPJT lancent une campagne de crowdfunding. Comme les années précédentes, une partie sera utilisée pour financer leurs enquêtes et leurs reportages pour Innova, leur magazine. L&#8217;autre partie participera aux frais d&#8217;impression du magazine. Textes, photos, maquette, secrétariat de rédaction, illustrations, ils feront tout. La [&#8230;]]]></description>
 		
 		
 		
