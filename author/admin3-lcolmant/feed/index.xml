@@ -12,7 +12,7 @@
 	<atom:link href="https://epjt.fr/author/admin3-lcolmant/feed/" rel="self" type="application/rss+xml" />
 	<link>https://epjt.fr/</link>
 	<description>École publique de journalisme de Tours</description>
-	<lastBuildDate>Mon, 15 Apr 2024 17:58:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Sep 2024 21:15:49 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Prix du journalisme de vérification francophone</title>
+		<link>https://epjt.fr/prix-du-journalisme-de-verification-francophone/</link>
+		
+		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
+		<pubDate>Fri, 06 Sep 2024 07:00:49 +0000</pubDate>
+				<category><![CDATA[Notre actualité]]></category>
+		<category><![CDATA[factchecking]]></category>
+		<category><![CDATA[francophonie]]></category>
+		<category><![CDATA[prix]]></category>
+		<category><![CDATA[vérification]]></category>
+		<guid isPermaLink="false">https://epjt.fr/?p=13357</guid>
+
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/08/53942188184_1636013c3d_e-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>L’EPJT, Factoscope, CFI Développement médias et Nothing2Hide organisent les Prix du journalisme de vérification francophone dans le cadre du programme Médialab Francophonie et du prochain Sommet de la Francophonie (Paris, les 4 et 5 octobre).
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les étudiants de l&#8217;EPJT se challengent au Hyblab</title>
 		<link>https://epjt.fr/les-etudiants-de-lepjt-se-challengent-au-hyblab/</link>
 		
@@ -40,7 +59,7 @@
 		<category><![CDATA[ouestmedialab]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13201</guid>
 
-					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/04/53656166911_8907495686_c-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>Chaque année, Ouest Medialab organise un hyblab qui réunit des étudiants de quatre écoles. Leur mission ? Répondre à la demande de médias partenaires pour créer, dans les temps impartis, des sites pour mobiles sur une thématique prédéfinie. Cette année, c'était le sport, JO oblige]]></description>
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/04/53656166911_8907495686_c-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Chaque année, Ouest Medialab organise un hyblab qui réunit des étudiants de quatre écoles. Leur mission ? Répondre à la demande de médias partenaires pour créer, dans les temps impartis, des sites pour mobiles sur une thématique prédéfinie. Cette année, c'était le sport, JO oblige]]></description>
 		
 		
 		
@@ -132,7 +151,7 @@
 		<category><![CDATA[Théophraste]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12900</guid>
 
-					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2023/11/53351382573_b6d656fa8a_e-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Un groupe de cinq étudiantes de l’EPJT ont réalisé plusieurs reportages multimédias conjointement avec leurs camarades de la Faculté de journalisme de Bucarest entre le 22 et le 26 novembre 2023, en partenariat avec Radio Romania.]]></description>
+					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2023/11/53351382573_b6d656fa8a_e-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Un groupe de cinq étudiantes de l’EPJT ont réalisé plusieurs reportages multimédias conjointement avec leurs camarades de la Faculté de journalisme de Bucarest entre le 22 et le 26 novembre 2023, en partenariat avec Radio Romania.]]></description>
 		
 		
 		
@@ -866,20 +885,6 @@
 		<guid isPermaLink="false">https://epjt.fr/?p=9432</guid>
 
 					<description><![CDATA[]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Campagne de crowdfunding pour Innova</title>
-		<link>https://epjt.fr/campagne-de-crowdfunding-pour-innova/</link>
-		
-		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
-		<pubDate>Wed, 08 Mar 2017 22:21:02 +0000</pubDate>
-				<category><![CDATA[Les productions archivées]]></category>
-		<guid isPermaLink="false">https://epjt.fr/?p=9338</guid>
-
-					<description><![CDATA[<div><img width="300" height="208" src="https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas-300x208.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas-300x208.jpg 300w, https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas-79x55.jpg 79w, https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas-400x277.jpg 400w, https://epjt.fr/wp-content/uploads/2017/03/PhotoInnovas.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" /></div>Pour la troisième année consécutive, les étudiants en Année spéciale de l&#8217;EPJT lancent une campagne de crowdfunding. Comme les années précédentes, une partie sera utilisée pour financer leurs enquêtes et leurs reportages pour Innova, leur magazine. L&#8217;autre partie participera aux frais d&#8217;impression du magazine. Textes, photos, maquette, secrétariat de rédaction, illustrations, ils feront tout. La [&#8230;]]]></description>
 		
 		
 		
