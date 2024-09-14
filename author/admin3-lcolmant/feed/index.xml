@@ -12,13 +12,13 @@
 	<atom:link href="https://epjt.fr/author/admin3-lcolmant/feed/" rel="self" type="application/rss+xml" />
 	<link>https://epjt.fr/</link>
 	<description>École publique de journalisme de Tours</description>
-	<lastBuildDate>Thu, 05 Sep 2024 21:15:49 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Sep 2024 21:14:22 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://epjt.fr/wp-content/uploads/2017/12/cropped-Plan-de-travail-1@8x-32x32.png</url>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Un Master francophone EPJT-DW</title>
+		<link>https://epjt.fr/un-master-francophone-epjt-dw/</link>
+		
+		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
+		<pubDate>Wed, 11 Sep 2024 07:00:50 +0000</pubDate>
+				<category><![CDATA[Notre actualité]]></category>
+		<guid isPermaLink="false">https://epjt.fr/?p=13384</guid>
+
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le nouveau Master francophone de journalisme international a été inauguré le mercredi 11 septembre 2024 à l’ambassade de France, à Berlin. Il est le fruit d’un partenariat entre le média public allemand Deutsche Welle (DW) et l’École publique de journalisme de Tours (EPJT).]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nouvelle rentrée, nouvelle maquette pour le Master EPJT</title>
+		<link>https://epjt.fr/nouvelle-rentree-nouvelle-maquette-pour-le-master-epjt/</link>
+		
+		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
+		<pubDate>Mon, 09 Sep 2024 07:00:20 +0000</pubDate>
+				<category><![CDATA[Notre actualité]]></category>
+		<guid isPermaLink="false">https://epjt.fr/?p=13395</guid>
+
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/09/53981093235_92087b2097_w-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://epjt.fr/wp-content/uploads/2024/09/53981093235_92087b2097_w-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2024/09/53981093235_92087b2097_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le Master de l’École publique de journalisme de Tours (EPJT) a été créé en septembre 2018 pour succéder aux cursus de DUT et de licence de l’IUT de Tours. Après avoir permis de diplômer cinq promotions, il se consolide et s’actualise pour coller au plus près des attendus des rédactions. Deux promotions inaugurent ces jours-ci sa nouvelle maquette.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Prix du journalisme de vérification francophone</title>
 		<link>https://epjt.fr/prix-du-journalisme-de-verification-francophone/</link>
 		
@@ -40,7 +68,7 @@
 		<category><![CDATA[vérification]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13357</guid>
 
-					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/08/53942188184_1636013c3d_e-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>L’EPJT, Factoscope, CFI Développement médias et Nothing2Hide organisent les Prix du journalisme de vérification francophone dans le cadre du programme Médialab Francophonie et du prochain Sommet de la Francophonie (Paris, les 4 et 5 octobre).
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/08/53942188184_1636013c3d_e-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>L’EPJT, Factoscope, CFI Développement médias et Nothing2Hide organisent les Prix du journalisme de vérification francophone dans le cadre du programme Médialab Francophonie et du prochain Sommet de la Francophonie (Paris, les 4 et 5 octobre).
 ]]></description>
 		
 		
@@ -59,7 +87,7 @@
 		<category><![CDATA[ouestmedialab]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13201</guid>
 
-					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/04/53656166911_8907495686_c-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Chaque année, Ouest Medialab organise un hyblab qui réunit des étudiants de quatre écoles. Leur mission ? Répondre à la demande de médias partenaires pour créer, dans les temps impartis, des sites pour mobiles sur une thématique prédéfinie. Cette année, c'était le sport, JO oblige]]></description>
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/04/53656166911_8907495686_c-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Chaque année, Ouest Medialab organise un hyblab qui réunit des étudiants de quatre écoles. Leur mission ? Répondre à la demande de médias partenaires pour créer, dans les temps impartis, des sites pour mobiles sur une thématique prédéfinie. Cette année, c'était le sport, JO oblige]]></description>
 		
 		
 		
@@ -78,7 +106,7 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13118</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/01/52953106351_3674c4a4c8_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>L'EPJT ouvre ses portes le samedi 17 février 2024. Étudiants et enseignants vous accueilleront sur place ou à distance. L'occasion de découvrir la formation initiale, le master de journalisme, mais aussi les offres de formation continue.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/01/52953106351_3674c4a4c8_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L'EPJT ouvre ses portes le samedi 17 février 2024. Étudiants et enseignants vous accueilleront sur place ou à distance. L'occasion de découvrir la formation initiale, le master de journalisme, mais aussi les offres de formation continue.]]></description>
 		
 		
 		
@@ -99,7 +127,7 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=12955</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2023/11/52953106531_0b9a089776_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Intéressé(e)s par le journalisme télé, radio ou presse écrite print et web ? L’École publique de journalisme de Tours recrute sa future promotion d'étudiants en master de journalisme pour l'année universitaire 2024-2025. Pour candidater, rendez-vous sur la plateforme ConcoursJournalisme.fr, accessible du 10 janvier au 29 février 2024.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2023/11/52953106531_0b9a089776_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Intéressé(e)s par le journalisme télé, radio ou presse écrite print et web ? L’École publique de journalisme de Tours recrute sa future promotion d'étudiants en master de journalisme pour l'année universitaire 2024-2025. Pour candidater, rendez-vous sur la plateforme ConcoursJournalisme.fr, accessible du 10 janvier au 29 février 2024.]]></description>
 		
 		
 		
@@ -116,7 +144,7 @@
 		<category><![CDATA[entraînement]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13083</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-480x320.jpg 480w, https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-e1706110577413.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></div>Dans le cadre d’un partenariat avec les Écoles militaires de Bourges, les étudiants en deuxième année de master de journalisme de l’EPJT ont intégré le camp d’entraînement de Valdahon.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-480x320.jpg 480w, https://epjt.fr/wp-content/uploads/2024/01/53480805185_3e2a1f0014_c-e1706110577413.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></div>Dans le cadre d’un partenariat avec les Écoles militaires de Bourges, les étudiants en deuxième année de master de journalisme de l’EPJT ont intégré le camp d’entraînement de Valdahon.]]></description>
 		
 		
 		
@@ -135,7 +163,7 @@
 		<category><![CDATA[nécrologie]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13023</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2023/12/53417745481_1c2e1b87de_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Samedi 23 décembre, nous avons appris la disparition de Clémentine Vergnaud qui fut étudiante à l'EPJT de 2012 à 2015. Cette nouvelle nous a laissés sans voix, avec une infinie tristesse au cœur.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2023/12/53417745481_1c2e1b87de_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Samedi 23 décembre, nous avons appris la disparition de Clémentine Vergnaud qui fut étudiante à l'EPJT de 2012 à 2015. Cette nouvelle nous a laissés sans voix, avec une infinie tristesse au cœur.]]></description>
 		
 		
 		
@@ -856,35 +884,6 @@
 		<guid isPermaLink="false">https://epjt.fr/?p=9812</guid>
 
 					<description><![CDATA[<div><img width="217" height="300" src="https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-217x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-217x300.png 217w, https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-40x55.png 40w, https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22.png 480w" sizes="(max-width: 217px) 100vw, 217px" /></div>Les étudiants en deuxième de DUT de journalisme ont investi la Ville rouge pendant une semaine pour découvrir les traces laissées par la COP22 qui s&#8217;est tenue là bas en novembre 2016. Vingt-cinq étudiants, sept jours, une ville, des kilomètres parcourus en taxis, en bus, et surtout à pied. Ils sont rentrés avec dans leur [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Innova explore l&#8217;intimité</title>
-		<link>https://epjt.fr/innova-explore-lintimite/</link>
-		
-		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
-		<pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
-				<category><![CDATA[Les productions]]></category>
-		<category><![CDATA[Notre actualité]]></category>
-		<guid isPermaLink="false">https://epjt.fr/?p=9640</guid>
-
-					<description><![CDATA[<div><img width="211" height="300" src="https://epjt.fr/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-211x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-211x300.png 211w, https://epjt.fr/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29-39x55.png 39w, https://epjt.fr/wp-content/uploads/2017/05/Capture-d’écran-2017-04-27-à-02.08.29.png 344w" sizes="(max-width: 211px) 100vw, 211px" /></div>Le numéro 24 d&#8217;Innova, le magazine de l&#8217;école vient de paraître. Son thème : les nouvelles frontières de l&#8217;intimité. Comme chaque année, en septembre, le thème a été soumis aux apprentis journalistes de l&#8217;Année spéciale. En février, ils se sont lancé. En cinq semaines, de la première réunion de rédaction jusqu&#8217;au bouclage, ils ont enquêté, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NDDL : ce que les candidats souhaitent</title>
-		<link>https://epjt.fr/nndl-ce-que-les-candidats-souhaitent/</link>
-		
-		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
-		<pubDate>Wed, 12 Apr 2017 10:00:12 +0000</pubDate>
-				<category><![CDATA[Les productions archivées]]></category>
-		<guid isPermaLink="false">https://epjt.fr/?p=9432</guid>
-
-					<description><![CDATA[]]></description>
 		
 		
 		
