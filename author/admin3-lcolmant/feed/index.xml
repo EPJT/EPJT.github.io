@@ -12,7 +12,7 @@
 	<atom:link href="https://epjt.fr/author/admin3-lcolmant/feed/" rel="self" type="application/rss+xml" />
 	<link>https://epjt.fr/</link>
 	<description>École publique de journalisme de Tours</description>
-	<lastBuildDate>Sun, 08 Sep 2024 21:14:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Sep 2024 09:19:47 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Malvina Raud reçoit le Le Prix franco-allemand du journalisme 2024</title>
+		<link>https://epjt.fr/malvina-raud-recoit-le-le-prix-franco-allemand-du-journalisme-2024/</link>
+		
+		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
+		<pubDate>Mon, 23 Sep 2024 09:19:44 +0000</pubDate>
+				<category><![CDATA[Notre actualité]]></category>
+		<guid isPermaLink="false">https://epjt.fr/?p=13425</guid>
+
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/09/54013065178_51c8d28f7b_w-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://epjt.fr/wp-content/uploads/2024/09/54013065178_51c8d28f7b_w-300x300.jpg 300w, https://epjt.fr/wp-content/uploads/2024/09/54013065178_51c8d28f7b_w-150x150.jpg 150w, https://epjt.fr/wp-content/uploads/2024/09/54013065178_51c8d28f7b_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>L’Ecole publique de journalisme de Tours félicite Malvina Raud qui a reçu le Prix franco-allemand du journalisme 2024 avec deux consœurs pour Grandir en Europe, un projet video 100 % numérique publié par ENTR.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Un Master francophone EPJT-DW</title>
 		<link>https://epjt.fr/un-master-francophone-epjt-dw/</link>
 		
@@ -36,7 +50,7 @@
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13384</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le nouveau Master francophone de journalisme international a été inauguré le mercredi 11 septembre 2024 à l’ambassade de France, à Berlin. Il est le fruit d’un partenariat entre le média public allemand Deutsche Welle (DW) et l’École publique de journalisme de Tours (EPJT).]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2024/09/53980322806_8e5e9a5a4a_w.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le nouveau Master francophone de journalisme international a été inauguré le mercredi 11 septembre 2024 à l’ambassade de France, à Berlin. Il est le fruit d’un partenariat entre le média public allemand Deutsche Welle (DW) et l’École publique de journalisme de Tours (EPJT).]]></description>
 		
 		
 		
@@ -68,7 +82,7 @@
 		<category><![CDATA[vérification]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13357</guid>
 
-					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/08/53942188184_1636013c3d_e-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>L’EPJT, Factoscope, CFI Développement médias et Nothing2Hide organisent les Prix du journalisme de vérification francophone dans le cadre du programme Médialab Francophonie et du prochain Sommet de la Francophonie (Paris, les 4 et 5 octobre).
+					<description><![CDATA[<div><img width="300" height="300" src="https://epjt.fr/wp-content/uploads/2024/08/53942188184_1636013c3d_e-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>L’EPJT, Factoscope, CFI Développement médias et Nothing2Hide organisent les Prix du journalisme de vérification francophone dans le cadre du programme Médialab Francophonie et du prochain Sommet de la Francophonie (Paris, les 4 et 5 octobre).
 ]]></description>
 		
 		
@@ -865,25 +879,6 @@
 		<guid isPermaLink="false">https://epjt.fr/?p=9899</guid>
 
 					<description><![CDATA[]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Marrakech : quelle politique verte pour la Ville rouge</title>
-		<link>https://epjt.fr/a-la-conquete-de-marrakech/</link>
-		
-		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
-		<pubDate>Tue, 27 Jun 2017 10:30:25 +0000</pubDate>
-				<category><![CDATA[Notre actualité]]></category>
-		<category><![CDATA[EPJT]]></category>
-		<category><![CDATA[Innova]]></category>
-		<category><![CDATA[magazine]]></category>
-		<category><![CDATA[marrakech]]></category>
-		<category><![CDATA[multimédia]]></category>
-		<guid isPermaLink="false">https://epjt.fr/?p=9812</guid>
-
-					<description><![CDATA[<div><img width="217" height="300" src="https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-217x300.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-217x300.png 217w, https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22-40x55.png 40w, https://epjt.fr/wp-content/uploads/2017/06/Capture-d’écran-2017-06-10-à-18.55.22.png 480w" sizes="(max-width: 217px) 100vw, 217px" /></div>Les étudiants en deuxième de DUT de journalisme ont investi la Ville rouge pendant une semaine pour découvrir les traces laissées par la COP22 qui s&#8217;est tenue là bas en novembre 2016. Vingt-cinq étudiants, sept jours, une ville, des kilomètres parcourus en taxis, en bus, et surtout à pied. Ils sont rentrés avec dans leur [&#8230;]]]></description>
 		
 		
 		
