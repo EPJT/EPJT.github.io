@@ -12,7 +12,7 @@
 	<atom:link href="https://epjt.fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://epjt.fr/</link>
 	<description>École publique de journalisme de Tours</description>
-	<lastBuildDate>Fri, 18 Oct 2024 19:45:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Oct 2024 15:30:22 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le DU journalisme Web multimédia ouvre ses inscriptions</title>
+		<link>https://epjt.fr/le-du-journalisme-web-multimedia-ouvre-ses-inscriptions/</link>
+		
+		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2024 15:30:19 +0000</pubDate>
+				<category><![CDATA[Notre actualité]]></category>
+		<guid isPermaLink="false">https://epjt.fr/?p=13541</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Les écoles de Théophraste au cœur de la Francophonie</title>
 		<link>https://epjt.fr/les-ecoles-de-theophraste-au-coeur-de-la-francophonie/</link>
 		
@@ -895,23 +909,6 @@
 		<guid isPermaLink="false">https://epjt.fr/?p=11423</guid>
 
 					<description><![CDATA[<div><img width="300" height="169" src="https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-300x169.jpg 300w, https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-1024x578.jpg 1024w, https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-1536x867.jpg 1536w, https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-2048x1156.jpg 2048w, https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-1080x610.jpg 1080w, https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-1280x723.jpg 1280w, https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-980x553.jpg 980w, https://epjt.fr/wp-content/uploads/2021/02/IMG_20210125_144345-480x271.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></div>Aller-Retour revient sur les ondes de RCF, une fois par mois. Premier arrêt pour la nouvelle équipe des étudiants en spécialisation radio du master 2 de journalisme : les Halles de Tours.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>La VAE à l’EPJT</title>
-		<link>https://epjt.fr/la-vae-a-lepjt/</link>
-		
-		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
-		<pubDate>Wed, 16 Dec 2020 16:01:08 +0000</pubDate>
-				<category><![CDATA[Notre actualité]]></category>
-		<category><![CDATA[diplôme]]></category>
-		<category><![CDATA[formation continue]]></category>
-		<category><![CDATA[VAE]]></category>
-		<guid isPermaLink="false">https://epjt.fr/?p=11374</guid>
-
-					<description><![CDATA[<div><img width="300" height="154" src="https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-300x154.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-300x154.png 300w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1024x526.png 1024w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1536x789.png 1536w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1080x554.png 1080w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-1280x657.png 1280w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-980x503.png 980w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-480x246.png 480w, https://epjt.fr/wp-content/uploads/2020/12/Capture-décran-2020-12-16-à-14.11.43-e1608126825922.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></div>Le master de journalisme de l'EPJT est accessible via la validation des acquis de l’expérience (VAE). Ainsi, les journalistes professionnels en CDI, en CDD ou pigistes, quel que soit leur âge, peuvent valider un bac+5.]]></description>
 		
 		
 		
