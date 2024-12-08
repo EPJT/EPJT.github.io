@@ -12,7 +12,7 @@
 	<atom:link href="https://epjt.fr/category/notre-actualite/feed/" rel="self" type="application/rss+xml" />
 	<link>https://epjt.fr/</link>
 	<description>École publique de journalisme de Tours</description>
-	<lastBuildDate>Sun, 17 Nov 2024 18:52:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Dec 2024 15:49:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Master EPJT : déposez votre dossier avant le 28 février</title>
+		<link>https://epjt.fr/master-epjt-concours-depot-dossier-avant-28-fevrier/</link>
+		
+		<dc:creator><![CDATA[Laure Colmant]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2024 15:49:49 +0000</pubDate>
+				<category><![CDATA[Notre actualité]]></category>
+		<category><![CDATA[concours]]></category>
+		<category><![CDATA[EPJT]]></category>
+		<category><![CDATA[IUT Jean-Luthier]]></category>
+		<category><![CDATA[université de Tours]]></category>
+		<guid isPermaLink="false">https://epjt.fr/?p=13580</guid>
+
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/12/53536810591_644a1f53da_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>L’École publique de journalisme de Tours ouvre le concours de son master de journalisme du 8 janvier au 28 février 2025. Pour candidater, rendez-vous sur la plateforme de la Conférence des écoles de journalisme reconnues (CEJ) : ConcoursJournalisme.fr]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Portes ouvertes EPJT : rendez-vous le samedi 1er février 2025</title>
 		<link>https://epjt.fr/portes-ouvertes-epjt-rendez-vous-le-samedi-1er-fevrier-2025/</link>
 		
@@ -41,7 +59,7 @@
 		<category><![CDATA[université de Tours]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13562</guid>
 
-					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/11/53537027983_d9de60ff11_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>L’EPJT ouvre ses portes le samedi 1er février 2025. Vous rencontrerez étudiants et enseignants toute la journée dans les locaux et pourrez assister à une conférence en ligne à 14 heures. Venez découvrir le master de journalisme, mais aussi les offres de formation continue en spécialisation et reconversion.]]></description>
+					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2024/11/53537027983_d9de60ff11_e-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>L’EPJT ouvre ses portes le samedi 1er février 2025. Vous rencontrerez étudiants et enseignants toute la journée dans les locaux et pourrez assister à une conférence en ligne à 14 heures. Venez découvrir le master de journalisme, mais aussi les offres de formation continue en spécialisation et reconversion.]]></description>
 		
 		
 		
@@ -69,7 +87,7 @@
 				<category><![CDATA[Notre actualité]]></category>
 		<guid isPermaLink="false">https://epjt.fr/?p=13509</guid>
 
-					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2024/10/54076454004_27b10b49c7_e-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" /></div>Soutenue par CFI et coordonnée par l’École publique de journalisme de Tours, la rédaction Médialab Francophonie a rassemblé 36 étudiants et encadrants venus de sept écoles membres du réseau Théophraste. Ceci à l’occasion du XIXe Sommet de la Francophonie, à Paris, du 2 au 6 octobre 2024.]]></description>
+					<description><![CDATA[<div><img width="300" height="225" src="https://epjt.fr/wp-content/uploads/2024/10/54076454004_27b10b49c7_e-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" /></div>Soutenue par CFI et coordonnée par l’École publique de journalisme de Tours, la rédaction Médialab Francophonie a rassemblé 36 étudiants et encadrants venus de sept écoles membres du réseau Théophraste. Ceci à l’occasion du XIXe Sommet de la Francophonie, à Paris, du 2 au 6 octobre 2024.]]></description>
 		
 		
 		
@@ -887,29 +905,6 @@
 		
 		<enclosure url="https://www.fondationvarenne.fr/wp-content/uploads/ninja-forms/17/Mali-les-sourires-de-lespoir.mp4" length="49600576" type="video/mp4" />
 
-			</item>
-		<item>
-		<title>Portes ouvertes EPJT : conférence le 13 février 2021, 14 heures</title>
-		<link>https://epjt.fr/portes-ouvertes-samedi-13-fevrier-2021/</link>
-		
-		<dc:creator><![CDATA[Laurent Bigot]]></dc:creator>
-		<pubDate>Sat, 13 Feb 2021 06:00:14 +0000</pubDate>
-				<category><![CDATA[Notre actualité]]></category>
-		<category><![CDATA[ASJ]]></category>
-		<category><![CDATA[EPJT]]></category>
-		<category><![CDATA[IUT]]></category>
-		<category><![CDATA[journalisme]]></category>
-		<category><![CDATA[JPO]]></category>
-		<category><![CDATA[licence professionnelle]]></category>
-		<category><![CDATA[master]]></category>
-		<category><![CDATA[Tanneurs]]></category>
-		<category><![CDATA[tours]]></category>
-		<guid isPermaLink="false">https://epjt.fr/?p=10834</guid>
-
-					<description><![CDATA[<div><img width="300" height="200" src="https://epjt.fr/wp-content/uploads/2019/02/D00_6903-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://epjt.fr/wp-content/uploads/2019/02/D00_6903-300x200.jpg 300w, https://epjt.fr/wp-content/uploads/2019/02/D00_6903-1024x683.jpg 1024w, https://epjt.fr/wp-content/uploads/2019/02/D00_6903-1080x720.jpg 1080w, https://epjt.fr/wp-content/uploads/2019/02/D00_6903.jpg 1200w" sizes="auto, (max-width: 300px) 100vw, 300px" /></div>L'occasion de découvrir les offres de formation de l'EPJT, le master de journalisme et les formations continues et sur-mesure.]]></description>
-		
-		
-		
 			</item>
 	</channel>
 </rss>
